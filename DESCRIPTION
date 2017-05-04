@@ -1,0 +1,12 @@
+Package: joke
+Type: Package
+Title: Random joke generator
+Version: 0.1.0
+Author: Adam Quek
+Maintainer: Adam Quek <adamquek79@gmail.com>
+Description: Package consist of one function that randomly select a question-and-answer joke and display with timed-interval
+    Data-set consisted of 38,269 jokes of the question-answer form, obtained from the r/Jokes subreddit, and make available at https://www.kaggle.com/jiriroz/qa-jokes
+    Disclaimer: The dataset contains jokes that some may find inappropriate.    
+License: Released under reddit's API terms
+Encoding: UTF-8
+LazyData: true

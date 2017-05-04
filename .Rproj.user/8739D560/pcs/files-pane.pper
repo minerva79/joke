@@ -1,0 +1,9 @@
+{
+    "path" : "C:/test/jokes",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
