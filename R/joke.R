@@ -1,4 +1,6 @@
 joke <- function(n=1, t=3, pause=TRUE){
+  rand <- sample(1:8500, 1000)
+  set.seed(sample(rand, 1))
   rn <- sample(1:38269, n)
   for(i in 1:n){
     e_jk <- jokes::jk[rn[i],]
